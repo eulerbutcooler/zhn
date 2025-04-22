@@ -1,11 +1,12 @@
+import Navbar from "./components/Navbar"
 
 
 function App() {
   
 
   return (
-    <div className="div">
-      <div className="wrapper w-[150vh] bg-red-400">hiiiiiii</div>
+    <div>
+      <Navbar/>
     </div>
   )
 }
